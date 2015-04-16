@@ -1,11 +1,13 @@
 #-*- coding: utf-8 -*-
-#file: prime.py
-
-num = int(raw_input('请输入一个数：'))
-for i in range (2, num):
-    if num % i == 0:
-	    print '这个数不是质数！'
-		break
-	else：
-       print '这个数是质数！'
-	   
+#####通风14 2班#####
+#####王  云  正#####
+#####1403050224#####
+###第十二章 第二题##
+T=273
+P=1.0e2
+p=1.24e-2 
+print P=nkT
+print p=nm
+print M=mNa
+print '由以上三式联立得：'
+print 'M=pkT/P*Na is ', M
